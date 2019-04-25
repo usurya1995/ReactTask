@@ -25,4 +25,27 @@ h1 {
     cursor: pointer;
     font-weight: bold;
     color: #ffffff;
+    border-radius: 5px;
+}
+
+.img-size{
+    max-width: 40%;
+}
+
+li {
+        width: 25%;
+        background:  #4d4d4d;
+        font-weight: bold;
+        padding: 12px;
+        color: white;
+        border: 1px solid;
+}
+
+.mainPage{
+    border: 1px solid black;
+}
+
+ul {
+        margin: 0;
+        padding: 0;
 }
