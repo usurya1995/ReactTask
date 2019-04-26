@@ -1,0 +1,12 @@
+li {
+    background:  #4d4d4d;
+    font-weight: bold;
+    padding: 12px;
+    color: white;
+    border: 1px solid;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
