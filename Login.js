@@ -24,7 +24,7 @@ class Login extends Component {
 
    updateDetails(e) {
       //e.preventDefault();
-      alert("Username:" + this.state.user + "," + "Password:" + this.state.pass);
+      //alert("Username:" + this.state.user + "," + "Password:" + this.state.pass);
       this.props.history.push(`/home/${this.state.user}`);
    }
 
