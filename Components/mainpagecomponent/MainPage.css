@@ -1,0 +1,37 @@
+li {
+    background:  #3FB6E3;
+    font-weight: bold;
+    padding: 12px;
+    color: white;
+    border: 1px solid;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.bordersLeft{
+    border: 1px solid gray;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.bordersRight{
+    border: 1px solid gray;
+    border-left: 0px; 
+}
+
+.tick{
+    width: 25px;
+    height: 25px;
+    display: none; 
+    float: right;
+}
+
+.msgstyle{
+    background-color: #3FB6E3;
+    color: white;
+    text-align: center;
+}
