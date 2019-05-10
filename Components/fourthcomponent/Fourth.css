@@ -1,0 +1,18 @@
+.spaceTop
+{
+    margin-top: 40px;
+}
+
+hr{
+    margin-top: 35px;
+}
+
+.accordion {
+    border: none; 
+    border-radius: 0px; 
+}
+
+.accordion__button {
+    background-color: none;
+}
+
