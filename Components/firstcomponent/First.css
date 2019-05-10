@@ -1,0 +1,22 @@
+.asterisk{
+    color: red;
+}
+
+.form-control
+{
+    width: 35%;
+    
+}
+
+.spaceTop
+{
+    margin-top: 40px;
+}
+
+.btndir{
+    float: right;
+}
+
+button{
+    margin-right: 10px;
+}
