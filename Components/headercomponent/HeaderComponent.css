@@ -1,0 +1,23 @@
+.btnsty{
+    float: right;
+    margin-top: 13px;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    color: white;
+}
+
+.img-size1{
+    width: 100px;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #3FB6E3;
+    border-color: #3FB6E3;
+}
