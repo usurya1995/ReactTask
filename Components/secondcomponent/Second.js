@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import 'react-accessible-accordion/dist/fancy-example.css';
 
 class Second extends Component {
     constructor(props) {
